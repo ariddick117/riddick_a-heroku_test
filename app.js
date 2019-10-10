@@ -3,7 +3,7 @@ const hbs = require('hbs');
 const path = require('path');
 const sql = require('./utils/sql');
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 8806;
 const app = express();
 app.use(express.static('public')); // serves up the resource
 
