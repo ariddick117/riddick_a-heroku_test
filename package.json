@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/ariddick117/riddick_a-heroku_test#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "hbs": "^4.0.5",
     "mysql": "^2.17.1"
   },
